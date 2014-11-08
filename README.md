@@ -29,6 +29,7 @@ Project Outline
 
 ## Hardware
 [This is a preliminary list; it will be finalized in a meeting with Mike (see below)]
+
 1. List
 2. of
 3. needed 
