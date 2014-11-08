@@ -14,6 +14,13 @@ Project Outline
 * Final Outcome = 50 pts  
 --> 200 Total
 
+## Team Members
+* Person 
+* Person
+* Person
+* Person
+* Person
+
 ## Project Sketch
 [Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
 
