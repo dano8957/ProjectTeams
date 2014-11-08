@@ -21,6 +21,9 @@ Project Outline
 * Person
 * Person
 
+## GitHub Repo 
+[As a way to share your project code and handle submissions, please create a GitHub Repo and place the link here so we know where to find your work]
+
 ## Project Sketch
 [Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
 
