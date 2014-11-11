@@ -15,12 +15,12 @@ Project Outline
 --> 200 Total
 
 ## Team Members
-* Person 
-* Person
-* Person
-* Person
-* Person
-
+* Josh Ferge(www.github.com/JoshFerge) 
+* Alexia Newgord(www.github.com/alne4294)
+* Chris Wittenberg(www.github.com/cwitty1919)
+* Nikita Voskoboynik(www.github.com/nikitavoskoboynik)
+* Justin McBride(www.github.com/dare599z)
+* Daniel Nolan(www.github.com/dano8957)
 ## GitHub Repo 
 [As a way to share your project code and handle submissions, please create a GitHub Repo and place the link here so we know where to find your work]
 
