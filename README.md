@@ -21,6 +21,7 @@ Project Outline
 * Nikita Voskoboynik(www.github.com/nikitavoskoboynik)
 * Justin McBride(www.github.com/dare599z)
 * Daniel Nolan(www.github.com/dano8957)
+
 ## GitHub Repo 
 [As a way to share your project code and handle submissions, please create a GitHub Repo and place the link here so we know where to find your work]
 
@@ -49,5 +50,8 @@ Given the varying expertise and interests, I'd like you to outline what team mem
 ## Propose 3 Meeting Times
 [You'll need to meet with Mike sometime during the week of 11/10 to finalize these details.  For this your whole team should try to be available for a **30 minute** meeting.  Mike is unavailable from 12-1 MWF and 12-2 TTh so don't propose those times.]
 
+- Tues. November 11th 5:00 - 5:30 PM
+- Tues. November 11th 4:30 - 5:00 PM
+- Tues. November 11th 5:30 - 6:00 PM
 
 AND FINALLY... Remember to have fun!  This is going to be a challenging project, and there is going to be some tough hurdles, but it should be a good time if you get into it and get excited about what we're creating.  Mike will do his best to be available and around ATLAS so that in the evenings if students need to come in and work or try things, we can set times to do this.  Also we'll have a hardware expert [Abhishek Narula] from ATLAS who will help us in the process.  
