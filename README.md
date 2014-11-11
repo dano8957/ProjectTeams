@@ -2,16 +2,16 @@ Project Outline
 ============
 
 ## Overview of Points
-* Project Proposal = 10 pts  
-* Vote = 5 pts
-* Project Outline = 15 pts
-* Meeting w/ Mike = 10 pts
-* Milestone 1 = 25 pts
-* Milestone 2 = 25 pts
-* Halfway Check-in = 10 pts
-* Milestone 3 = 25 pts
-* Milestone 4 = 25 pts
-* Final Outcome = 50 pts  
+- [ ] Project Proposal = 10 pts  
+- [ ] Vote = 5 pts
+- [ ] Project Outline = 15 pts
+- [ ] Meeting w/ Mike = 10 pts
+- [ ] Milestone 1 = 25 pts
+- [ ] Milestone 2 = 25 pts
+- [ ] Halfway Check-in = 10 pts
+- [ ] Milestone 3 = 25 pts
+- [ ] Milestone 4 = 25 pts
+- [ ] Final Outcome = 50 pts  
 --> 200 Total
 
 ## Team Members
