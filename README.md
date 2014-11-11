@@ -55,6 +55,6 @@ Given the varying expertise and interests, I'd like you to outline what team mem
 - Tues. November 11th 4:30 - 5:00 PM
 - Tues. November 11th 5:30 - 6:00 PM
 
-<p style='color:red'>Finalized meeting time: Thursday, November 13th at 5:30pm.<\>
+<p style='color:red'>Finalized meeting time: Thursday, November 13th at 5:30pm.</p>
 
 AND FINALLY... Remember to have fun!  This is going to be a challenging project, and there is going to be some tough hurdles, but it should be a good time if you get into it and get excited about what we're creating.  Mike will do his best to be available and around ATLAS so that in the evenings if students need to come in and work or try things, we can set times to do this.  Also we'll have a hardware expert [Abhishek Narula] from ATLAS who will help us in the process.  
