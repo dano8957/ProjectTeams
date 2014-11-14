@@ -40,6 +40,24 @@ Project Outline
 ## Roles
 Given the varying expertise and interests, I'd like you to outline what team member will be responsible for what parts of the project.  It's okay if 2 people want to share certain responsibilities.  This is mostly for your own organization and, if things get rocky, so Mike knows who to talk to in the group.
 
+###### 1. Data spec/storage (what it looks like when it comes in), e.g. Mongo?
+Nikita, Chris
+###### 2. Server
+Josh, Justin
+###### 3. Sound collection
+Chris
+###### 4. Managing visualizations as they come together
+Alexia, Daniel
+###### 5. Parse portrait image into 3+ classes/changeable parts (CSS classes), start with Steve Wozniak?  Add command line info to top of image?
+Alexia, Chris, Daniel
+###### 6. Creating scales for colors
+Josh
+###### 7. Hardware, mics etc.
+Justin
+###### 8. Light collection
+Nikita
+
+
 ## 4 Milestones
 [Please list 4 Project Milestones you'll complete week-to-week to show your progress.  You will need to turn in some tangible example to prove you've completed 1 milestone each week.  Some combination of code snippets, data, screenshots, picture of the hardware setup, etc.  If these milestones need to change slightly, that's OK, as long as you tell Mike and Tom at least 2 days before submission (and as long as you haven't arbitrarily reduced the workload)]
 
