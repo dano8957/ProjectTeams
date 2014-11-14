@@ -61,10 +61,10 @@ Nikita
 ## 4 Milestones
 [Please list 4 Project Milestones you'll complete week-to-week to show your progress.  You will need to turn in some tangible example to prove you've completed 1 milestone each week.  Some combination of code snippets, data, screenshots, picture of the hardware setup, etc.  If these milestones need to change slightly, that's OK, as long as you tell Mike and Tom at least 2 days before submission (and as long as you haven't arbitrarily reduced the workload)]
 
-1. 
-2. 
-3. 
-4. 
+1. Milestone 1: how will image(s) come together/collaboration?, prototype/wireframe of design ** Code snippet/screenshot ** Use artificial data
+2. Milestone 2: data snippet with response/change ** DUE: Monday after Thanksgiving ** Live data: we need a web server that pulls live data down ** Someone needs to get snippets of data and share ** Demonstrate API call, pull data, and inject into the visualization
+3. Milestone 3: prototype => going to lobby ** By first week of December
+4. Milestone 4: pure awesomeness, perfecting
 
 ## Propose 3 Meeting Times
 [You'll need to meet with Mike sometime during the week of 11/10 to finalize these details.  For this your whole team should try to be available for a **30 minute** meeting.  Mike is unavailable from 12-1 MWF and 12-2 TTh so don't propose those times.]
