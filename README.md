@@ -2,10 +2,10 @@ Project Outline
 ============
 
 ## Overview of Points
-- [ ] Project Proposal = 10 pts  
-- [ ] Vote = 5 pts
-- [ ] Project Outline = 15 pts
-- [ ] Meeting w/ Mike = 10 pts
+- [x] Project Proposal = 10 pts  
+- [x] Vote = 5 pts
+- [x] Project Outline = 15 pts
+- [x] Meeting w/ Mike = 10 pts
 - [ ] Milestone 1 = 25 pts
 - [ ] Milestone 2 = 25 pts
 - [ ] Halfway Check-in = 10 pts
