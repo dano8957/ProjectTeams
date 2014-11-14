@@ -29,13 +29,12 @@ Project Outline
 ## Project Sketch
 [Use this section to sketch out the working parts of your project.  The project may change as you go, but try your best.  Describe how you intend to capture your data, clean it, analyze it, dump it, and vizualize it.  How will you set up your hardware?  What things are still uncertain and what things do you feel confident about?  What will be your process to get each of these things in working order?  How would you like your display to be 'triggered' in the installation?]
 
+![Warhol pic](http://www.online-tech-tips.com/wp-content/uploads/2011/06/John-Lennon-Andy-Warhol_thumb.png)
+
 ## Hardware
 [This is a preliminary list; it will be finalized in a meeting with Mike (see below)]
 
-1. List
-2. of
-3. needed 
-4. Hardware
+1. Mic?
 
 ## Roles
 Given the varying expertise and interests, I'd like you to outline what team member will be responsible for what parts of the project.  It's okay if 2 people want to share certain responsibilities.  This is mostly for your own organization and, if things get rocky, so Mike knows who to talk to in the group.
