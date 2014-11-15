@@ -15,12 +15,12 @@ Project Outline
 --> 200 Total
 
 ## Team Members
-* [Josh Ferge](www.github.com/JoshFerge) 
-* [Alexia Newgord](www.github.com/alne4294)
-* [Chris Wittenberg](www.github.com/cwitty1919)
-* [Nikita Voskoboynik](www.github.com/nikitavoskoboynik)
-* [Justin McBride](www.github.com/dare599z)
-* [Daniel Nolan](www.github.com/dano8957)
+* [Josh Ferge](www.github.com/JoshFerge) - Joshua.Ferge@Colorado.EDU
+* [Alexia Newgord](www.github.com/alne4294) - Alexia.Newgord@colorado.EDU
+* [Chris Wittenberg](www.github.com/cwitty1919) - Christopher.Wittenberg@Colorado.EDU
+* [Nikita Voskoboynik](www.github.com/nikitavoskoboynik) - Nikita.Voskoboynik@Colorado.EDU
+* [Justin McBride](www.github.com/dare599z) - Justin.E.Mcbride@Colorado.EDU
+* [Daniel Nolan](www.github.com/dano8957) - Daniel.J.Nolan@Colorado.EDU
 
 ## GitHub Repo 
 
